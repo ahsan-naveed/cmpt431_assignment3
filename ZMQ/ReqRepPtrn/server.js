@@ -1,3 +1,11 @@
+/**
+ * CMPT 431 Distributed Systems - Assignment 03
+ *
+ * GROUP:
+ * Ahsan Naveed (anaveed)
+ * Amandeep Sindhar (asindhar)
+ */
+
 // server
 // Binds REP socket to tcp://*:5555
 // Expects "time" from client, replies with current datetime

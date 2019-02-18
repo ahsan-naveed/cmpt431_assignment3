@@ -1,3 +1,11 @@
+/**
+ * CMPT 431 Distributed Systems - Assignment 03
+ *
+ * GROUP:
+ * Ahsan Naveed (anaveed)
+ * Amandeep Sindhar (asindhar)
+ */
+
 // client
 // Connects REQ socket to tcp://localhost:5555
 // Asks server current datetime.
