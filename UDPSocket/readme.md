@@ -5,6 +5,14 @@
 3. We invoke `send()`/`receive()` call for actually sending/recieving packets on both client and server sides.
 4. The extract the data from the received packet using `getData()` method.
 
+## Result
+
+1. Server:
+   ![Server](udpsocket_server.png)
+
+2. Client (after syncing time with Server time):
+   ![Client](udpsocket_client.png)
+
 ## References
 
 1. https://www.geeksforgeeks.org/working-udp-datagramsockets-java/
