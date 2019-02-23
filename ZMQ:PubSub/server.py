@@ -1,3 +1,11 @@
+"""
+ * CMPT 431 Distributed Systems - Assignment 03
+ *
+ * GROUP:
+ * Ahsan Naveed (anaveed)
+ * Amandeep Sindhar (asindhar)
+"""
+
 import zmq
 import sys
 import os
